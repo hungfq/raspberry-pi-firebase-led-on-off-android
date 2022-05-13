@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412271940439",
+    "firebase_url": "https://embedded-ba46d-default-rtdb.firebaseio.com",
+    "project_id": "embedded-ba46d",
+    "storage_bucket": "embedded-ba46d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412271940439:android:6e9eb9e5542bbf3cbaa412",
+        "android_client_info": {
+          "package_name": "com.example.embedded"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412271940439-oavbaj58t16tgcme70ai25fhb7s4ovm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6mgKPcKppRgVTIWsCzVK2L1PTEwqN7kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412271940439-oavbaj58t16tgcme70ai25fhb7s4ovm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
